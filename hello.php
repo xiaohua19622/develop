@@ -12,3 +12,4 @@ adfs哦哦扣扣
 多福多寿
 
 sss
+resetcommit
